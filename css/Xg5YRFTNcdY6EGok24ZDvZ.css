@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Jannat Font';
+  src: url(https://user.lpcontent.net/fonts/UnbmpzBFfAe996eJeXdfnn/Xg5YRFTNcdY6EGok24ZDvZ/YH53a5SB57CCPDg4pDUvN9.woff2?time=1633079823) format('woff2'),
+       url(https://user.lpcontent.net/fonts/UnbmpzBFfAe996eJeXdfnn/Xg5YRFTNcdY6EGok24ZDvZ/YH53a5SB57CCPDg4pDUvN9.woff?time=1633079823) format('woff');
+  font-weight: 400;
+  font-style: regular;
+}
+
+@font-face {
+  font-family: 'Jannat Font';
+  src: url(https://user.lpcontent.net/fonts/UnbmpzBFfAe996eJeXdfnn/Xg5YRFTNcdY6EGok24ZDvZ/S2biXLUXkK58er5PsrDVH9.woff2?time=1633079823) format('woff2'),
+       url(https://user.lpcontent.net/fonts/UnbmpzBFfAe996eJeXdfnn/Xg5YRFTNcdY6EGok24ZDvZ/S2biXLUXkK58er5PsrDVH9.woff?time=1633079823) format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Jannat Font';
+  src: url(https://user.lpcontent.net/fonts/UnbmpzBFfAe996eJeXdfnn/Xg5YRFTNcdY6EGok24ZDvZ/pAbFgqUTdy9k9BKZn8LwxE.woff2?time=1633079823) format('woff2'),
+       url(https://user.lpcontent.net/fonts/UnbmpzBFfAe996eJeXdfnn/Xg5YRFTNcdY6EGok24ZDvZ/pAbFgqUTdy9k9BKZn8LwxE.woff?time=1633079823) format('woff');
+  font-weight: 700;
+  font-style: regular;
+}
+
